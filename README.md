@@ -1,6 +1,6 @@
 # KPMG Data Analysis Virtual Internship
  
-The Completion of this virtual internship invoolved 3 Tasks.
+The Completion of this virtual internship involved 3 Tasks.
 
 
 -Module 1 was cleaning the data and find out the quality issues.
@@ -9,4 +9,4 @@ The Completion of this virtual internship invoolved 3 Tasks.
 for customer segmentation.
 
 -Module 3 was creating a dashboard to present various Visualizations which was done using pivot table in
-Excel
+Excel.
